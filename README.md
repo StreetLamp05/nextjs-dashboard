@@ -8,13 +8,13 @@ Things learned so far:
 - using the usePathname() hook to create active links in the navigation
 - Setting up and seeding a Postgres database with data
 - Using Reach Server Components to fetch data using RouterHandlers and SQL statements
-  > Keeping expensive data fetches and logic on the server and only sending the result to the client
-  > querying the database without using an additional api layer
+  > - Keeping expensive data fetches and logic on the server and only sending the result to the client
+  > - querying the database without using an additional api layer
 - Static rendering for UI components without data or data that is shared between all users such as nav components and blog posts
 - Dynamic rendering for real time data, user specific contnent, and request time information
 - Implementing Stremaing to improve user experience in the case of slow data requests
-  > at a page level using a loading.tsx file
-  > by specific components using <Suspense>
+  > - at a page level using a loading.tsx file
+  > - by specific components using <Suspense>
 
 
 
