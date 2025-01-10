@@ -14,7 +14,7 @@ Things learned so far:
 - Dynamic rendering for real time data, user specific contnent, and request time information
 - Implementing Stremaing to improve user experience in the case of slow data requests
   > - at a page level using a loading.tsx file
-  > - by specific components using <Suspense>
+  > - by specific components using \<Suspense>
 
 
 
